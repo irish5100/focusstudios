@@ -36,7 +36,7 @@ intro:
   heading: What we offer
   description: >
     Focus Studio's is the ulitmate spot for people wanting to roleplay while
-	having fun, so why don't you come join us today!
+    having fun, so why don't you come join us today!
 main:
   heading: Great Realistic Roleplay
   description: >
@@ -74,11 +74,9 @@ pricing:
     - description: If you would like to support Focus Studio's you can choose to donation a custom amount of money. *100% of donations go to Focus Studio's INC.
       items:
         - This is NOT required"
-		- No In-Game benefits are given"
+        - No In-Game benefits are given"
         - Custom discord role"
         - Private discord channel"
       plan: Custom
       price: '?'
 ---
-
-
