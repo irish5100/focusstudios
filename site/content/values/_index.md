@@ -9,9 +9,9 @@ values:
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Irish"
     text: >
-      Irish is the community developer inside of Focus Studio's 
-	  who makes all the community activites and helps make the 
-	  discord server a better place.
+    Irish is the community developer inside of Focus Studio's 
+    who makes all the community activites and helps make the 
+    discord server a better place.
       You can message Irish about anything, his DM's are open!
     imageUrl: "/img/about-single-origin.jpg"
   - heading: "YPGSCP"
