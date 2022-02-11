@@ -64,7 +64,7 @@ testimonials:
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Plans
-  description: >
+  description: >-
  Here you can find our donation section,
  our staff team has decided not to accept donations because we
  don't want to think we are preasuring you to pay for having fun,
