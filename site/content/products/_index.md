@@ -63,7 +63,7 @@ testimonials:
       stance on empowering realistic scenarios.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Prices
+  heading: prices
   description: >-
  Here you can find our donation section,
  our staff team has decided not to accept donations because we
