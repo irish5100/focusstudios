@@ -65,10 +65,10 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Plans
   description: >-
- Here you can find our donation section,
- our staff team has decided not to accept donations because we
- don't want to think we are preasuring you to pay for having fun,
- however we accept a custom amount of cash donation. You do NOT need to do this to play in Focus Studio's server!
+    Here you can find our donation section,
+    our staff team has decided not to accept donations because we
+    don't want to think we are preasuring you to pay for having fun,
+    however we accept a custom amount of cash donation. You do NOT need to do this to play in Focus Studio's server!
   plans:
     - description: >
      If you would like to support Focus Studio's you can choose to donation a custom amount of money.
