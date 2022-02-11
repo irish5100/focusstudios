@@ -14,7 +14,7 @@ intro:
     - image: /img/illustrations-coffee.svg
       text: >
         We have alot of different exciting things for our members to do such as
-        being a LEO (Law Enforcment Officer) or a Civilan that can drive around
+        being a LEO <<Law Enforcment Officer>> or a Civilan that can drive around
         and cause realistic scenes for the police to get involved.
     - image: /img/illustrations-coffee-gear.svg
       text: >
