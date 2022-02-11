@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About
 type: Products
 image: /img/products-jumbotron.jpg
 heading: What We Offer
@@ -15,7 +15,7 @@ intro:
     - image: /img/illustrations-coffee.svg
       text: >
         We have alot of different exciting things for our members to do such as
-        being a LEO (Law Enforcment Officer) or a Civilan that can drive around
+        being a LEO <Law Enforcment Officer> or a Civilan that can drive around
         and cause realistic scenes for the police to get involved.
     - image: /img/illustrations-coffee-gear.svg
       text: >
@@ -68,7 +68,8 @@ pricing:
  Here you can find our donation section,
  our staff team has decided not to accept donations because we
  don't want to think we are preasuring you to pay for having fun,
- however we accept a custom amount of cash donation. You do NOT need to do this to play in Focus Studio's server!
+ however we accept a custom amount of cash donation. You do NOT 
+ need to do this to play in Focus Studio's server!
 
   plans:
     - description: If you would like to support Focus Studio's you can choose to donation a custom amount of money. 100% of donations go to Focus Studio's INC.
