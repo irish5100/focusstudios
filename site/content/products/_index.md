@@ -73,7 +73,6 @@ pricing:
     - description: If you would like to support Focus Studio's you can choose to donation a custom amount of money. *100% of donations go to Focus Studio's INC.
       items:
         - This is NOT required"
-	- No In-Game benefits are given"
         - Custom discord role"
         - Private discord channel"
       plan: Custom
