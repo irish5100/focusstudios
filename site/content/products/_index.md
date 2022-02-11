@@ -1,6 +1,6 @@
 ---
 title: About Us
-type: About
+type: products
 image: /img/products-jumbotron.jpg
 heading: What We Offer
 description: >-
