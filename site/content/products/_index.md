@@ -71,8 +71,8 @@ pricing:
  however we accept a custom amount of cash donation. You do NOT need to do this to play in Focus Studio's server!
 
   plans:
-    - description: >
- If you would like to support Focus Studio's you can choose to donation a custom amount of money. *100% of donations go to Focus Studio's INC.
+    - description:
+     If you would like to support Focus Studio's you can choose to donation a custom amount of money. *100% of donations go to Focus Studio's INC.
       items:
         - This is NOT required"
         - No In-Game benefits are given"
