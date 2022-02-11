@@ -4,7 +4,7 @@ subtitle: Welcome to the official Focus Studio's webpage.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Focus Studio's?
-    text: "Focus Studio's is trying to give RobloxRP a whole different meaning by includes the most realistic scenes for everyone to enjoy!"
+    text: "Focus Studio's is trying to give RobloxRP a whole different meaning by including the most realistic scenes for everyone to enjoy!"
 intro:
     heading: "What we offer"
     text: "here at Focus Studio's we don't just offer realistic roleplay scenes, we offer a friendly/welcoming community so you can feel safe and secure while with us!"
