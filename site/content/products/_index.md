@@ -1,6 +1,6 @@
 ---
 title: About Us
-type: products
+type: Products
 image: /img/products-jumbotron.jpg
 heading: What We Offer
 description: >-
@@ -78,5 +78,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
-
