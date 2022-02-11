@@ -1,22 +1,21 @@
 ---
-title: Our Coffee
-type: products
+title: About Us
+type: About
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: What We Offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ Focus Studio's is trying to give RobloxRP a whole different meaning by including the most realistic scenes for everyone to enjoy!
+ Here at Focus Studio's we don't just offer realistic roleplay scenes, we offer a friendly/welcoming community so you can feel safe and secure while with us!
+ We also offer realiable contact with the official staff team night & day to answer all of your questions/concerns!
+
+
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        We have alot of different exciting things for our members to do such as
+        being a LEO (Law Enforcment Officer) or a Civilan that can drive around
+        and cause realistic scenes for the police to get involved.
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -25,31 +24,25 @@ intro:
         to fall in love with in our shop.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        If you like Roblox and like RP why don't you come join us today!
+        Want to join but not sure how to? Don't worry, we are here to help
+        just direct yourself to the "Contact" page and email us!
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that a good roleplay server can bring people to get new friends and
+        that’s why we decided to create a discord server so you can message new people
+        or just hang out with our happy community! All the staf are in the discord
+        server so you can feel safe and protected at all times!
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Focus Studio's is the ulitmate spot for people wanting to roleplay while
+	having fun, so why don't you come join us today!
 main:
-  heading: Great coffee with no compromises
+  heading: Great Realistic Roleplay
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We try to keep the highest standards when it comes to realistic roleplay.
+    That’s why we're taking every single little peice of detail into mind and making
+    it great for perfect roleplay scenes!
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -62,39 +55,28 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      The first time I tried Focus Studio's server, I couldn’t even believe that was
+      the same thing I’ve been playing every morning.
+  - author: Phillip Schofield
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Focus Studio's is the place to go if you want the best quality roleplay. I love their
+      stance on empowering realistic scenarios.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Donations
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+ Here you can find our donation section,
+ our staff team has decided not to accept donations because we
+ don't want to think we are preasuring you to pay for having fun,
+ however we accept a custom amount of cash donation. You do NOT need to do this to play in Focus Studio's server!
+
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: If you would like to support Focus Studio's you can choose to donation a custom amount of money. *100% of donations go to Focus Studio's INC.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - This is NOT required"
+		- No In-Game benefits are given"
+        - Custom discord role"
+        - Private discord channel"
       plan: Custom
       price: '?'
 ---
