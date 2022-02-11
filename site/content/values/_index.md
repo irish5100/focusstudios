@@ -9,17 +9,17 @@ values:
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Irish"
     text: >
-    Irish is the community developer inside of Focus Studio's 
-    who makes all the community activites and helps make the 
-    discord server a better place.
+      Irish is the community developer inside of Focus Studio's 
+      who makes all the community activites and helps make the 
+      discord server a better place.
       You can message Irish about anything, his DM's are open!
     imageUrl: "/img/about-single-origin.jpg"
   - heading: "YPGSCP"
     text: >
       YPGSCP is the Head Developer inside of Focus Studio's.
       He is very good at making ideas for the Focus Studio's
-	  community and without him most of the in-game buildings
-	  wont be as good as they are because of him.
+      community and without him most of the in-game buildings
+      wont be as good as they are because of him.
     imageUrl: "/img/about-sustainable-farming.jpg"
   - heading: "Afg_han"
     text: >
@@ -31,6 +31,6 @@ values:
     text: >
       JBK is the assistiant board of directors here in Focus Studio's.
       He is second in command behind JBK and it his job to make sure
-	  Focus Studio's is the safest it can be for everyone to have fun.
+      Focus Studio's is the safest it can be for everyone to have fun.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
