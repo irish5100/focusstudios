@@ -62,7 +62,7 @@ testimonials:
       Focus Studio's is the place to go if you want the best quality roleplay. I love their
       stance on empowering realistic scenarios.
 full_image: /img/products-full-width.jpg
- pricing:
+pricing:
  heading: "Donations Sub"
   description: >-
  Here you can find our donation section,
