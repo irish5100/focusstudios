@@ -1,45 +1,36 @@
 ---
-title: "Values"
+title: "Staff"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Fred"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Fred is the Owner/Founder of the Focus Studio's
+      community, without him it wouldn't be possible.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Irish"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      Irish is the community developer inside of Focus Studio's 
+	  who makes all the community activites and helps make the 
+	  discord server a better place.
+      You can message Irish about anything, his DM's are open!
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "YPGSCP"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      YPGSCP is the Head Developer inside of Focus Studio's.
+      He is very good at making ideas for the Focus Studio's
+	  community and without him most of the in-game buildings
+	  wont be as good as they are because of him.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Afg_han"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Afg_han is the board of directors here at Focus Studio's.
+      He manages all of the staff members to make sure we have
+      a safe and secure environment for our members.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+  - heading: "JBK"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      JBK is the assistiant board of directors here in Focus Studio's.
+      He is second in command behind JBK and it his job to make sure
+	  Focus Studio's is the safest it can be for everyone to have fun.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
