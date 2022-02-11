@@ -53,7 +53,7 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Borris Johnson
     quote: >-
       The first time I tried Focus Studio's server, I couldn’t even believe that was
       the same thing I’ve been playing every morning.
